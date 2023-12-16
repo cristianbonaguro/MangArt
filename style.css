@@ -1,0 +1,13 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Nova+Square&display=swap');
+
+body{
+    font-family: 'Amatic SC', sans-serif;
+    font-family: 'Nova Square', sans-serif;
+    background-color: #dedcdc;
+}
+#title{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
